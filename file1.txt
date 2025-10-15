@@ -1,0 +1,3 @@
+regno
+branch
+college
